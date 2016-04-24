@@ -4,6 +4,8 @@
 #include "PluginFunctions.h"
 
 class SkeletonPlugin : public plugin::function_plugin_base {
+    
+    function func;
 
 public:
     virtual unsigned int function_size();
