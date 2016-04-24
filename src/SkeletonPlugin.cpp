@@ -3,7 +3,7 @@
 
 using namespace plugin;
 
-    function func;
+    
 
     unsigned int SkeletonPlugin::function_size() {
         return 1;
